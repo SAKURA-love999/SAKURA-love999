@@ -75,7 +75,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 
 ## 📊 GitHub Stats
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=sakuralove-999&show_icons=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakuralove-999&layout=compact" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=SAKURA-love999&show_icons=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKURA-love999&layout=compact" />
 
 </div>
