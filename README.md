@@ -1,4 +1,3 @@
-# sakuralove-999
 <div align="center">
 
 # Hi, I'm Sakura 🌸
@@ -10,10 +9,10 @@ I enjoy learning languages, exploring creative things, and building my own path 
 <br/>
 
 <img src="https://img.shields.io/badge/Tohoku%20University-005BAC?style=flat-square" />
+<img src="https://img.shields.io/badge/From-Shantou%2C%20Guangdong%2C%20China-ff69b4?style=flat-square" />
 <img src="https://img.shields.io/badge/Japanese-JLPT%20N1-red?style=flat-square" />
 <img src="https://img.shields.io/badge/Korean-TOPIK%20I-blue?style=flat-square" />
-<img src="https://img.shields.io/badge/Anime-Game-pink?style=flat-square" />
-<img src="https://img.shields.io/badge/Art-Music%20Dance-purple?style=flat-square" />
+<img src="https://img.shields.io/badge/Anime%20%26%20Game-Lover-purple?style=flat-square" />
 
 <br/>
 <br/>
@@ -21,8 +20,8 @@ I enjoy learning languages, exploring creative things, and building my own path 
 <a href="mailto:sakura999@dc.tohoku.ac.jp">
   <img src="https://img.shields.io/badge/Email-sakura999%40dc.tohoku.ac.jp-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/sakuralove-999">
-  <img src="https://img.shields.io/badge/GitHub-sakuralove--999-181717?style=flat-square&logo=github&logoColor=white" />
+<a href="https://github.com/SAKURA-love999">
+  <img src="https://img.shields.io/badge/GitHub-SAKURA--love999-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -36,7 +35,10 @@ I enjoy learning languages, exploring creative things, and building my own path 
 ## 🌱 About Me
 
 - Student at **Tohoku University**
-- Interested in languages, creativity, and technology
+- From **Shantou, Guangdong, China**
+- Native speaker of **Mandarin Chinese** and **Teochew**
+- Able to communicate a little in **Cantonese**
+- Interested in languages, creativity, anime, games, and technology
 - Currently exploring my academic and personal direction
 - Learning step by step, without rushing too much
 
@@ -51,6 +53,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 - 🎮 Games
 - 🌸 Anime
 - 🌏 Languages and cultures
+- 🧸 Cute and creative things
 
 </td>
 </tr>
@@ -60,22 +63,50 @@ I enjoy learning languages, exploring creative things, and building my own path 
 
 <div align="center">
 
-## 🧸 Languages
+## 🧸 Languages & Background
 
-<img src="https://img.shields.io/badge/Chinese-Native-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Mandarin%20Chinese-Native-red?style=flat-square" />
+<img src="https://img.shields.io/badge/Teochew-Native%20%2F%20Fluent-orange?style=flat-square" />
+<img src="https://img.shields.io/badge/Cantonese-Basic%20Communication-yellow?style=flat-square" />
 <img src="https://img.shields.io/badge/Japanese-JLPT%20N1-blue?style=flat-square" />
 <img src="https://img.shields.io/badge/Korean-TOPIK%20I-green?style=flat-square" />
-<img src="https://img.shields.io/badge/English-Learning-yellow?style=flat-square" />
+<img src="https://img.shields.io/badge/English-Learning-lightgrey?style=flat-square" />
 
 </div>
 
 <br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 🌸 Currently
+
+- Studying and living in Japan
+- Exploring future research interests
+- Learning more about technology and AI
+- Trying to become more consistent and confident
+
+</td>
+<td width="50%" valign="top">
+
+## 🍰 Fun Facts
+
+- I like anime and games
+- I enjoy drawing, music, and dancing
+- I like learning different languages
+- I come from a coastal city in Guangdong, China
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
-## 📊 GitHub Stats
+## 🌷 Nice to meet you
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=SAKURA-love999&show_icons=true" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAKURA-love999&layout=compact" />
+Thanks for visiting my GitHub profile.
 
 </div>
