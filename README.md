@@ -28,7 +28,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 
 <br/>
 
-<table>
+<table align="center" width="80%">
 <tr>
 <td width="50%" valign="top">
 
@@ -76,7 +76,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 
 <br/>
 
-<table>
+<table align="center" width="80%">
 <tr>
 <td width="50%" valign="top">
 
