@@ -17,7 +17,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 <br/>
 <br/>
 
-<a href="mailto:sakura999@dc.tohoku.ac.jp">
+<a href="mailto:ccccc101@qq.com">
   <img src="https://img.shields.io/badge/Email-sakura999%40dc.tohoku.ac.jp-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/SAKURA-love999">
