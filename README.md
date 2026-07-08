@@ -76,33 +76,6 @@ I enjoy learning languages, exploring creative things, and building my own path 
 
 <br/>
 
-<table align="center" width="80%">
-<tr>
-<td width="50%" valign="top">
-
-## 🌸 Currently
-
-- Studying and living in Japan
-- Exploring future research interests
-- Learning more about technology and AI
-- Trying to become more consistent and confident
-
-</td>
-<td width="50%" valign="top">
-
-## 🍰 Fun Facts
-
-- I like anime and games
-- I enjoy drawing, music, and dancing
-- I like learning different languages
-- I come from a coastal city in Guangdong, China
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 ## 🌷 Nice to meet you
