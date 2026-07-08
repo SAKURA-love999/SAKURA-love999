@@ -18,7 +18,7 @@ I enjoy learning languages, exploring creative things, and building my own path 
 <br/>
 
 <a href="mailto:ccccc101@qq.com">
-  <img src="https://img.shields.io/badge/Email-ccccc%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-ccccc101%40qq.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://github.com/SAKURA-love999">
   <img src="https://img.shields.io/badge/GitHub-SAKURA--love999-181717?style=flat-square&logo=github&logoColor=white" />
