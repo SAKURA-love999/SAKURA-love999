@@ -38,11 +38,9 @@
 
 - Student at **Tohoku University**
 - From **Shantou, Guangdong, China**
-- Native speaker of **Mandarin Chinese** and **Teochew**
-- Able to communicate a little in **Cantonese**
+- Native speaker of **Mandarin Chinese**
 - Interested in languages, creativity, anime, games, and technology
 - Currently exploring my academic and personal direction
-- Learning step by step, without rushing too much
 
 </td>
 <td width="50%" valign="top">
