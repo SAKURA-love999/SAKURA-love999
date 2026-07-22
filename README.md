@@ -63,7 +63,7 @@
 
 <div align="center">
 
-## 🧸 Languages & Background
+## 🧸 Languages
 
 <img src="https://img.shields.io/badge/Mandarin%20Chinese-Native-red?style=flat-square" />
 <img src="https://img.shields.io/badge/Teochew-Native-orange?style=flat-square" />
