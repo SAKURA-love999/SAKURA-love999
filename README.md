@@ -2,7 +2,7 @@
 
 # Hi, I'm Sakura 🌸
 
-### Master Student at Tohoku University
+### Graduate Student
 
 
 <br/>
